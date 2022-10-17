@@ -68,7 +68,7 @@ The purpose of this analysis was to develop visualizations with Tableau in order
 - Bike repairs will need to be scheduled based on the usage, giving priority to the most used bikes first. The following visualization allows for a visual representation of the bikes needing maintenance v/s the bikes with less usage. It will also be beneficial to know what times it will be most appropriate to perform the maintenance, for this a visualization providing times of usage (peak hours) is provided as well.
 
 ![Screenshot](https://github.com/chgallegos/bikesharing/blob/main/resources/bike%20repair.png)
-![Screenshot](August peak hours)
+![Screenshot](https://github.com/chgallegos/bikesharing/blob/main/resources/August%20peak%20hours.png)
 
 ##### "User Trips by Gender by Weekday"
 
@@ -85,5 +85,5 @@ The purpose of this analysis was to develop visualizations with Tableau in order
 
 - With my previous concerns I would suggest to utilize a few more pieces of data/visualizations. The first one for a breakdown of the usertype and birthyear, as to get general idea of potential target market that could be consistent across the board. The second piece of analysis.
 
-![Screenshot](usertype by birthday)
-![Screenshot](user user by birthyear and gender)
+![Screenshot](https://github.com/chgallegos/bikesharing/blob/main/resources/Usertype%20by%20Birthyear.png)
+![Screenshot](https://github.com/chgallegos/bikesharing/blob/main/resources/User%20by%20Birthyear%20and%20Gender.png)
