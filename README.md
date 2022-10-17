@@ -23,6 +23,7 @@ The purpose of this analysis was to develop visualizations with Tableau in order
 ##### "Number of Trips"
 
 - We begin by analyzing the number of trips for the month of August to use as a sample
+
 ![Screenshot](https://github.com/chgallegos/bikesharing/blob/main/resources/number%20of%20trips.png)
 
 ##### "Short term V/S Annual Subscribers"
