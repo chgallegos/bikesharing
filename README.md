@@ -5,6 +5,8 @@ The purpose of this analysis was to develop visualizations with Tableau in order
 
 [link to dashboard](https://public.tableau.com/views/NYCCitibikeDashboard/NYCCitibikeDashboard1?:language=en-US&:display_count=n&:origin=viz_share_link "link to dashboard")
 
+[link to Story](https://public.tableau.com/views/NYCCitibikeStory_16662217469750/NYCCitibikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to Story")
+
 ----
 ## Results
 ### PART 1 "Changing the data type"
